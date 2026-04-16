@@ -1,0 +1,8 @@
+unit_id,name,category
+unit_1,Boiler,heating
+unit_2,Gym Furnace,heating
+unit_3,"CFS Furnace 1, 2, & 3",heating
+ecc_dhw_heater,ECC Domestic Hot Water Heater,nonheating
+ecc_stove,ECC Stove,nonheating
+admin_stove,Admin Kitchen Stove,nonheating
+elder_stove,Elder Center Stove,nonheating
