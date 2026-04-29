@@ -1,0 +1,23 @@
+{
+  "bundle": "pie_bundle_CY2024.pkl",
+  "analysis_year": 2024,
+  "analysis_years": [
+    2023,
+    2024,
+    2025
+  ],
+  "n_rows": 21,
+  "cols": [
+    "year",
+    "unit_id",
+    "device",
+    "category",
+    "annual_gal"
+  ],
+  "small_devices": [
+    "Admin Kitchen Stove",
+    "ECC Domestic Hot Water Heater",
+    "ECC Stove",
+    "Gym Furnace"
+  ]
+}
