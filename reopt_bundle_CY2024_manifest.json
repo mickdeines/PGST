@@ -1,0 +1,24 @@
+{
+  "bundle": "reopt_bundle_CY2024.pkl",
+  "tz": "America/Los_Angeles",
+  "analysis_year": 2024,
+  "analysis_years": [
+    2023,
+    2024,
+    2025
+  ],
+  "n_rows": 26304,
+  "n_cols": 8,
+  "includes_temp_f": true,
+  "n_device_cols": 7,
+  "device_cols_preview": [
+    "heat_btu_in_unit_1",
+    "heat_btu_in_unit_2",
+    "heat_btu_in_unit_3",
+    "nonheat_btu_in_ecc_dhw_heater",
+    "nonheat_btu_in_ecc_stove",
+    "nonheat_btu_in_admin_stove",
+    "nonheat_btu_in_elder_stove"
+  ],
+  "notes": "Load this bundle in a clean notebook to generate REopt CSV exports without re-running the full model."
+}
