@@ -9,16 +9,16 @@ horizon,scenario,pv_case,capex_total,opex_total,lcc_total,baseline,lcc_savings_v
 25y,LT-ASHP,no_pv,84300,946792,1031092,fixed,-121174
 25y,HT-ASHP,no_pv,88200,1183586,1271786,fixed,-361868
 25y,Electric Boiler,no_pv,25000,1774216,1799216,fixed,-889298
-25y,LT-ASHP,net_metering,261900,838695,1100595,broken,-155842
+25y,LT-ASHP,net_metering,261900,609095,870995,broken,73758
 25y,HT-ASHP,net_metering,265800,848398,1114198,broken,-169445
 25y,Electric Boiler,net_metering,202600,1443171,1645771,broken,-701018
-25y,LT-ASHP,net_metering,261900,838695,1100595,fixed,-190677
+25y,LT-ASHP,net_metering,261900,609095,870995,fixed,38923
 25y,HT-ASHP,net_metering,265800,848398,1114198,fixed,-204280
 25y,Electric Boiler,net_metering,202600,1443171,1645771,fixed,-735853
-25y,LT-ASHP,net_billing,206348,930426,1136774,broken,-192021
+25y,LT-ASHP,net_billing,206348,772643,978991,broken,-34238
 25y,HT-ASHP,net_billing,234730,982827,1217557,broken,-272804
 25y,Electric Boiler,net_billing,202600,1535406,1738006,broken,-793253
-25y,LT-ASHP,net_billing,206348,930426,1136774,fixed,-226856
+25y,LT-ASHP,net_billing,206348,772643,978991,fixed,-69073
 25y,HT-ASHP,net_billing,234730,982827,1217557,fixed,-307639
 25y,Electric Boiler,net_billing,202600,1535406,1738006,fixed,-828088
 10y,Broken controls,no_pv,0,316497,316497,broken,0
@@ -31,15 +31,15 @@ horizon,scenario,pv_case,capex_total,opex_total,lcc_total,baseline,lcc_savings_v
 10y,LT-ASHP,no_pv,0,287284,287284,fixed,16265
 10y,HT-ASHP,no_pv,0,359134,359134,fixed,-55585
 10y,Electric Boiler,no_pv,0,538348,538348,fixed,-234799
-10y,LT-ASHP,net_metering,0,205452,205452,broken,111045
+10y,LT-ASHP,net_metering,0,184652,184652,broken,131845
 10y,HT-ASHP,net_metering,0,257264,257264,broken,59233
 10y,Electric Boiler,net_metering,0,437745,437745,broken,-121248
-10y,LT-ASHP,net_metering,0,205452,205452,fixed,98097
+10y,LT-ASHP,net_metering,0,184652,184652,fixed,118897
 10y,HT-ASHP,net_metering,0,257264,257264,fixed,46285
 10y,Electric Boiler,net_metering,0,437745,437745,fixed,-134196
-10y,LT-ASHP,net_billing,0,241358,241358,broken,75139
+10y,LT-ASHP,net_billing,0,220558,220558,broken,95939
 10y,HT-ASHP,net_billing,0,291083,291083,broken,25414
 10y,Electric Boiler,net_billing,0,467684,467684,broken,-151187
-10y,LT-ASHP,net_billing,0,241358,241358,fixed,62191
+10y,LT-ASHP,net_billing,0,220558,220558,fixed,82991
 10y,HT-ASHP,net_billing,0,291083,291083,fixed,12466
 10y,Electric Boiler,net_billing,0,467684,467684,fixed,-164135
